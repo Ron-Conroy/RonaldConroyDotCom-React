@@ -1,0 +1,13 @@
+.sideNav {
+    position: fixed;
+    width: 300px;
+    background-color: black;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+}
+
+.mainContent {
+    width: calc(100% - 300px);
+    float: right;
+}

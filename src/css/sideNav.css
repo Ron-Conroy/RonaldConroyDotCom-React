@@ -1,0 +1,62 @@
+.sideNavMain {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+.sideNavMain a {
+    color: white;
+    margin: auto 4px
+}
+
+.sideNavProfile {
+    text-align: center;
+}
+
+.sideNavProfilePic img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 15px auto;
+    border: 3px solid #FFFFFF;
+}
+
+.sideNavProfileName {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.sideNavProfileSocials {
+    margin-top: 8px;
+}
+
+.sideNavProfileSocials a {
+    border-radius: 50%;
+    background: #3c3c3c;
+    padding: 5px;
+}
+
+.sideNavProfileSocials i {
+    width: 16px;
+    height: 16px;
+}
+
+.sideNavMenu ul {
+    list-style-type: none;
+    padding-inline-start:0px;
+}
+
+.sideNavMenu li {
+    padding: 15px;
+}
+
+.sideNavMenu {
+    text-align: center;
+}
+
+.sideNavMenu a {
+    text-decoration: none;
+}
+
+.sideNavMenu i {
+    padding-right: 8px;
+}
